@@ -1,0 +1,29 @@
+body {
+    background: white;
+}
+ 
+h1 {
+    text-align: center;
+}
+ 
+#dov {
+    display: flex;
+    justify-content: center;
+}
+ 
+#barbearia {
+    width: 50%;
+}
+ 
+h2 {
+    text-align: center;
+}
+ 
+p {
+    text-align: center;
+}
+ 
+#missao {
+    font-size: 20px;
+}
+
