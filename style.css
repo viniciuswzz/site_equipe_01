@@ -1,29 +1,25 @@
+
+
 body {
-    background: white;
+    background: #DAC8B3
 }
- 
+
+
 h1 {
-    text-align: center;
+     text-align: center
 }
- 
-#dov {
-    display: flex;
-    justify-content: center;
+
+
+#banner {
+    width: 50%
 }
- 
-#barbearia {
-    width: 50%;
-}
- 
-h2 {
-    text-align: center;
-}
- 
+
+
 p {
     text-align: center;
 }
- 
-#missao {
-    font-size: 20px;
-}
 
+
+h2 {
+    text-align: center
+}
